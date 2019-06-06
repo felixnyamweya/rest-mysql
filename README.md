@@ -3,11 +3,11 @@
 [![GitHub stars](https://img.shields.io/github/stars/o1lab/xmysql.svg?style=plastic)](https://github.com/o1lab/xmysql/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/o1lab/xmysql/master/LICENSE)
 
-# Xmysql : One command to generate REST APIs for any MySql database
+# :fire::fire: REST-MySQL : One command to generate REST APIs for any MySQL database
 
 # Why this ?
 <p align="center">
-  <img src="./assets/rick-and-morty.gif" alt="xmysql gif"/>
+  <img src="./assets/rick-and-morty.gif" alt="rest-mysql gif"/>
 </p>
 
 Generating REST APIs for a MySql database which does not follow conventions of 
@@ -45,24 +45,6 @@ Powered by popular node packages : ([express](https://github.com/expressjs/expre
 </p>
 
  
-<!-- AddToAny BEGIN -->
-<div align="right">
-<h3>Boost Your Hacker Karma By Sharing : </h3>
-<a href="https://www.addtoany.com/add_to/sina_weibo?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/weibo.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/renren?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20Database%20" target="_blank"><img src="./assets/renren.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/douban?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20Database%20" target="_blank"><img src="./assets/doubon.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/vk?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/vk.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/wykop?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20Database%20" target="_blank"><img src="./assets/wykop.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/linkedin.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/reddit.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/facebook.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/twitter.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/hacker_news?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=Show%20HN:%20REST%20APIs%20for%20Magento%20database%20within%20seconds!" target="_blank"><img src="./assets/hn1.png" width="32" height="32"></a>
-</div>
-<!-- AddToAny END -->
-
-
-
 # Features
 * Generates API for **ANY** MySql database :fire::fire:
 * Serves APIs irrespective of naming conventions of primary keys, foreign keys, tables etc :fire::fire:
@@ -950,23 +932,6 @@ http://localhost:3000/_version
 
     $ xmysql -u username -p password -d databaseSchema
 ```
-<!-- AddToAny BEGIN -->
-<div align="right">
-<h3>Boost Your Hacker Karma By Sharing : </h3>
-<a href="https://www.addtoany.com/add_to/sina_weibo?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/weibo.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/renren?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20Database%20" target="_blank"><img src="./assets/renren.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/douban?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20Database%20" target="_blank"><img src="./assets/doubon.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/vk?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/vk.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/wykop?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20Database%20" target="_blank"><img src="./assets/wykop.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/linkedin.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/reddit.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/facebook.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=One%20command%20to%20generate%20REST%20APIs%20for%20any%20MySql%20database." target="_blank"><img src="./assets/twitter.png" width="32" height="32"></a>
-<a href="https://www.addtoany.com/add_to/hacker_news?linkurl=https%3A%2F%2Fgithub.com%2Fo1lab%2Fxmysql%2F&amp;linkname=Show%20HN:%20REST%20APIs%20for%20Magento%20database%20within%20seconds!" target="_blank"><img src="./assets/hn1.png" width="32" height="32"></a>
-</div>
-<!-- AddToAny END -->
-
-
 
 # Docker
 [:arrow_heading_up:](#features)
@@ -997,7 +962,7 @@ Furthermore, the docker container of xmysql is listen on port 80. You can than r
 
 ## Debugging xmysql in docker.
 
-Given you've deployed your xmysql docker container like 
+Given you've deployed your rest-mysql docker container like 
 
 ```shell
 docker run -d \
